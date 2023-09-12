@@ -12,7 +12,7 @@ Then went to implementing a UNet using encoders and decoders with skip connectio
     - Outchannels was 1 for Cell and People segmentation, 2 for Bears/Deers segmentation.
 
 # Bears/Deers segmentation
-This one was me starting from scratch, finding pictures of bears and deers online and filling in the masks myself. This means the train set was not as big as I would like though.
+This one was me starting from scratch, finding pictures of bears and deers online and filling in the masks myself. This means the train set was not as big as I would like though. I still got some decent results for the size of the train set, I thought.
 
 # Cell Segmenation
 This dataset I was able to find online, so the train set was pretty decent and I achieved the best results here. Also I got good results here since cells are just circles and pretty easily distinguishable.
@@ -20,4 +20,11 @@ This dataset I was able to find online, so the train set was pretty decent and I
 # People Segmentation
 This dataset I was also able to find online, and got some promising results.
 
-# Highlights
+# Some Test Images and Segmentations
+
+![Screen Shot 2023-09-12 at 11 08 08 AM](https://github.com/shaanpakala/random_image_segmentations/assets/68576257/53958e0f-b814-4cf6-ad78-1b64ff484b7c)
+
+![Screen Shot 2023-09-12 at 11 07 02 AM](https://github.com/shaanpakala/random_image_segmentations/assets/68576257/645358cd-f45b-4bc3-9717-9d5dafa29f47)
+
+![Screen Shot 2023-09-12 at 11 08 51 AM](https://github.com/shaanpakala/random_image_segmentations/assets/68576257/e590927a-3ebc-4c8b-ad8d-6d5336a8a994)
+
