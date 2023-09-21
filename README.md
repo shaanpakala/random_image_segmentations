@@ -29,7 +29,10 @@ This dataset I was also able to find online, and got some promising results.
 
 # Some Test Images and Segmentations
 
-![Screen Shot 2023-09-12 at 11 08 08 AM](https://github.com/shaanpakala/random_image_segmentations/assets/68576257/53958e0f-b814-4cf6-ad78-1b64ff484b7c)
+<img width="1199" alt="Screen Shot 2023-09-21 at 2 14 39 PM" src="https://github.com/shaanpakala/random_image_segmentations/assets/68576257/d807c5c5-1203-4566-a5e0-0ebe7aad8e1d">
+
+<img width="1194" alt="Screen Shot 2023-09-21 at 2 15 26 PM" src="https://github.com/shaanpakala/random_image_segmentations/assets/68576257/2ef63b72-0531-47ec-ad1c-954fbf279aa1">
+
 
 ![Screen Shot 2023-09-12 at 11 07 02 AM](https://github.com/shaanpakala/random_image_segmentations/assets/68576257/645358cd-f45b-4bc3-9717-9d5dafa29f47)
 
