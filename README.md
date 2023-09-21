@@ -5,7 +5,7 @@ These are just some random image segmentations I've done, mainly for practice.
 As far as preprocessing, I experimented with several methods, the main one was kmeans clustering to further distinguish the colors in the images.
 
 # Models
-Started off by trying a simple encoder -> decoder network which yielded okay results.
+Started off by trying a simple encoder decoder network which yielded okay results.
 
 Then went to implementing a UNet using encoders and decoders with skip connections, which yielded much better results.
 - Encoder was 2 Conv2D layers with ReLU activation, followed by a MaxPooling layer for downsizing.
