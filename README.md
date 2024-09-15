@@ -1,5 +1,4 @@
-# "Abstract"
-These are just some random image segmentations I've done, mainly for practice.
+#### These are just some random image segmentations I've done, mainly for practice.
 
 # Preprocessing
 As far as preprocessing, I experimented with several methods, the main one was kmeans clustering to further distinguish the colors in the images.
